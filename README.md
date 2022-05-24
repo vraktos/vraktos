@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vraktos
-- 👀 I’m interested in Thwe  Odin prject
+- 👀 I’m interested in The  Odin prject
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on something idk yet
 - 📫 How to reach me ...
