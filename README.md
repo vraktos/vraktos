@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vraktos
-- 👀 I’m interested in The  Odin prject
-- 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on something idk yet
-- 📫 How to reach me, on discord! @eMDi
+- 👋 Hi, I’m Matias Demonte
+Hello! I'm a Junior Web Developer looking for specialization in Back End. I finished Henry's boot-camp and now I'm ready to begin this new journey of development and prove myself! I'm looking for an environment where I can learn lots and grow both as a person and as a professional.
+
 
 <!---
 vraktos/vraktos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
